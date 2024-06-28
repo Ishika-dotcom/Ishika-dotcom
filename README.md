@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishika Goyal</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
+<h3 align="center">An Aspiring Software Developer</h3>
 
 - 🔭 I’m interested in **Web Development, Web Designing and UI/UX Designing**
 
